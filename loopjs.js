@@ -61,3 +61,20 @@
 //     console.log(i);
 //     i++;
 // }while(i<=9);
+
+// for of loop
+// returns elements 
+const fruits = [ 'mango','banana','custard','guava']
+const firut = []
+
+// for(let fruit of fruits){
+    // console.log(fruit)
+// }
+
+// for in loop
+// return indexes
+
+// for(let index in fruits){
+    // firut.push(fruits[index])
+    // console.log(firut[index]);
+// }
